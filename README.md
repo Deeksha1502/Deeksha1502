@@ -1,4 +1,4 @@
-#Hi there 👋
+Hi there 👋
 
 <!--
 ### Hi there 👋
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing B.E in Computer Science
 - 🌱 I’m currently learning frontend developement.
-- 👯 I’m proficient with HTML, CSS, JavascripT, ReactJS, Tailwind, Redux
+- 👯 I’m proficient with HTML, CSS, Javascript, ReactJS, Tailwind, Redux
 - 📫 How to reach me: deekshad1502@gmail.com
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Deeksha1502&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
