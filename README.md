@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   
 
 <div align="left">
-  <h3 align="left">Languages and Tools</h3>
+<!--   <h3 align="left">Languages and Tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo"  />
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 
   
-</div>
+</div> -->
 <br>
 <h3>🏆 GitHub Trophies</h3>
 
